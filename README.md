@@ -44,10 +44,22 @@ For my preparation of IELTS I mostly prepared using following YouTube channels
 - Sectional sequence for writing a letter 
     1. Greeting - Hi, Hello, Dear Sir or Madam
     2. Reason - Paragraph stating the reason. Can be started with like "I am writing to let you know..."
-    3. Explanation - Paragraph explaining the situation
-    4. Request - Paragraph requesting the solution. For e.g. "Would you kindly..."
+    3. Explanation - Paragraph explaining the situation - For e.g. "Let me explain my situation in more detail"
+    4. Request - Paragraph requesting the solution. For e.g. "Would you/Could you kindly..."
     5. Ending - Ending line for e.g. Thanking or apology
-    6. Sign off - Your faithfully, sincerely
+    6. Sign off - Yours faithfully
+    7. Name - Your name
+
+## Letter writing - informal
+- Refer: https://www.youtube.com/watch?v=Y5oPF7QLgyo
+- Use contraction like I've, I'm, Could've etc
+- Sectional sequence for writing a letter 
+    1. Greeting - Dear
+    2. Reason - Paragraph stating the reason. Can be started with like "I am writing to let you know..."
+    3. Explanation - Paragraph explaining the situation - For e.g. "Let me explain my situation in more detail"
+    4. Request/Suggest - Paragraph requesting the solution. For e.g. "Would you/Could you kindly..."
+    5. Ending - Ending line for e.g. Thanking or apology
+    6. Sign off - Your friend, yours faithfully
     7. Name - Your name
 
 # Listening test
