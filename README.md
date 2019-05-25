@@ -39,6 +39,17 @@ For my preparation of IELTS I mostly prepared using following YouTube channels
 - Try to bring in use of different tenses
 - Different types of sentences and tenses increases the range of grammar
 
+## Letter writing - formal
+- Refer: https://www.youtube.com/watch?v=4y_u4o5kp_w
+- Sectional sequence for writing a letter 
+    1. Greeting - Hi, Hello, Dear Sir or Madam
+    2. Reason - Paragraph stating the reason. Can be started with like "I am writing to let you know..."
+    3. Explanation - Paragraph explaining the situation
+    4. Request - Paragraph requesting the solution. For e.g. "Would you kindly..."
+    5. Ending - Ending line for e.g. Thanking or apology
+    6. Sign off - Your faithfully, sincerely
+    7. Name - Your name
+
 # Listening test
 
 ## Compound sentense conjunctions
